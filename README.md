@@ -1,4 +1,4 @@
-## Predicting Iris Flower Species using OOP code implementation
+## Predicting Iris Flower Species using OOP framework
 
 **Classifying Iris flowers into three species, by creatig a classification model that learns from the historical Iris species data. In addition, we will identify the correlation of flower species with the different variables like sepalLength, sepalwidth,  and bring out actionable insights from the existing dataset.**
 ***
